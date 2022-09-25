@@ -48,10 +48,10 @@
 
 <br><br/>
 
-<div align="center">
+<div align="left">
   <img width="48%" align="center" src="https://github-readme-stats.vercel.app/api?username=nishan75&show_icons=true&locale=en" alt="nishan75" />
   <img width="48%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nishan75&" alt="nishan75" />
 </div>
-
+<br><br/>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nishan75&show_icons=true&locale=en&layout=compact" alt="nishan75" /></p>
  
