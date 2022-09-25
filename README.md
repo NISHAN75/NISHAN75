@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Nishan Das</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh.this is one of my hobbies that I want to fulfill. I want to know about technology and work with it. I want to know more about the technologies I am currently working on. And over time, I want to master more and more new technologies.</h3>
 
-<img align="right" alt="coding" width="400" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
+<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nishan75&label=Profile%20views&color=0e75b6&style=flat" alt="nishan75" /> </p>
 
 - 🔭 I’m currently working on [Capture Web Application](https://local-bazar-2c557.firebaseapp.com/)
