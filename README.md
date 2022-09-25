@@ -1,6 +1,6 @@
 ![logo](https://github.com/NISHAN75/NISHAN75/blob/main/White%20Green%20Flat%20Digital%20Marketing%20LinkedIn%20Banner%20(1).png)
 <h1 align="center">Hi 👋, I'm Nishan Das</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh.this is one of my hobbies that I want to fulfill. I want to know about technology and work with it. I want to know more about the technologies I am currently working on. And over time, I want to master more and more new technologies.</h3>
+<p align="left">A passionate frontend developer from Bangladesh.This is one of my hobbies that I want to fulfill. I want to know about technology and work with it. I want to know more about the technologies I am currently working on. And over time, I want to master more and more new technologies.</p>
 
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nishan75&label=Profile%20views&color=0e75b6&style=flat" alt="nishan75" /> </p>
@@ -53,5 +53,6 @@
   <img width="48%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nishan75&" alt="nishan75" />
 </div>
 <br><br/>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nishan75&show_icons=true&locale=en&layout=compact" alt="nishan75" /></p>
- 
+
