@@ -46,10 +46,12 @@
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 
+<br><br/>
+
+<div align="center">
+  <img width="48%" align="center" src="https://github-readme-stats.vercel.app/api?username=nishan75&show_icons=true&locale=en" alt="nishan75" />
+  <img width="48%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nishan75&" alt="nishan75" />
+</div>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nishan75&show_icons=true&locale=en&layout=compact" alt="nishan75" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nishan75&show_icons=true&locale=en" alt="nishan75" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nishan75&" alt="nishan75" /></p>
  
