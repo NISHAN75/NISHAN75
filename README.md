@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Redux**
 
-- 💬 Ask me about **Web Development**
+- 💬 Ask me about **Web Development and i am happy to help;**
 
 - 📫 How to reach me **nishandas880@gmail.com**
 
@@ -49,10 +49,25 @@
 <br><br/>
 
 <div align="left">
-  <img width="48%" align="center" src="https://github-readme-stats.vercel.app/api?username=nishan75&show_icons=true&locale=en" alt="nishan75" />
+  <img width="48%"  align="center" src="https://github-readme-stats.vercel.app/api?username=nishan75&show_icons=true&locale=en" alt="nishan75" />
   <img width="48%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nishan75&" alt="nishan75" />
 </div>
 <br><br/>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nishan75&show_icons=true&locale=en&layout=compact" alt="nishan75" /></p>
+<div>
+<p><img align="left" width="40%"  src="https://github-readme-stats.vercel.app/api/top-langs?username=nishan75&show_icons=true&locale=en&layout=compact" alt="nishan75" /></p>
+<h5>📊 This week i spent my time on:</h5>
+<!--START_SECTION:waka-->
+
+```text
+React.js   11 hrs 23 mins  █████████████████▓░░░░░░░   70.74 %
+JavaScript   2 hrs 29 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.49 %
+HTML         1 hr 3 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.60 %
+JSON         34 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 %
+css       24 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.51 %
+Other        4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 %
+```
+
+<!--END_SECTION:waka-->
+</div>
 
