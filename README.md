@@ -49,8 +49,8 @@
 <br><br/>
 
 <div align="left">
-  <img width="48%"  align="center" src="https://github-readme-stats.vercel.app/api?username=nishan75&show_icons=true&locale=en" alt="nishan75" />
-  <img width="48%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nishan75&" alt="nishan75" />
+  <img width="48%"  align="center" src="https://github-readme-stats.vercel.app/api?username=nishan75&show_icons=true&theme=radical" alt="nishan75" />
+  <img width="48%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nishan75&show_icons=true&theme=radical" alt="nishan75" />
 </div>
 <br><br/>
 
