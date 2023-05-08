@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Capture Web Application](https://local-bazar-2c557.firebaseapp.com/)
 
-- 🌱 I’m currently learning **Redux**
+- 🌱 I’m currently learning **Next.js**
 
 - 💬 Ask me about **Web Development and i am happy to help;**
 
